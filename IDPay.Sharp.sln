@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IDPay.Sharp", "IDPay.Sharp\IDPay.Sharp.csproj", "{0D92F9B4-8975-41FC-979E-C8F1AD66BF10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDPay.Sample", "IDPay.Sample\IDPay.Sample.csproj", "{4FD35439-7CE6-4485-8384-6188D97DBAC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0D92F9B4-8975-41FC-979E-C8F1AD66BF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D92F9B4-8975-41FC-979E-C8F1AD66BF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D92F9B4-8975-41FC-979E-C8F1AD66BF10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD35439-7CE6-4485-8384-6188D97DBAC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD35439-7CE6-4485-8384-6188D97DBAC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD35439-7CE6-4485-8384-6188D97DBAC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD35439-7CE6-4485-8384-6188D97DBAC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

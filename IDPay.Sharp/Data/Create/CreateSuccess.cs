@@ -23,6 +23,9 @@ namespace IDPay.Sharp.Data.Create
         public string phone { get; set; }
         public string mail { get; set; }
         public string desc { get; set; }
+        /// <summary>
+        /// این بخش ضرروری است
+        /// </summary>
         public string callback { get; set; }
     }
 }

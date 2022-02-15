@@ -8,7 +8,7 @@ see:
 https://idpay.ir/web-service/v1.1/</Description>
     <Authors>PowerDeveloper</Authors>
     <Company>Itldteam</Company>
-    <PackageIcon>logo-2196dfa8.png</PackageIcon>
+    <PackageIcon>photo_2021-05-08_13-18-04.jpg</PackageIcon>
     <PackageIconUrl />
   </PropertyGroup>
 
@@ -18,7 +18,7 @@ https://idpay.ir/web-service/v1.1/</Description>
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\..\Desktop\logo-2196dfa8.png">
+    <None Include="photo_2021-05-08_13-18-04.jpg">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
